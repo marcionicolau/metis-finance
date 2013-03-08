@@ -1,4 +1,4 @@
-swas-finance
+metis-finance
 ============
 
-Finance submodule of swas
+Finance submodule of metis
